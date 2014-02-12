@@ -1,0 +1,74 @@
+CTYPE html>
+<html lang="es">
+   <head>
+         <title>Titulo de mi Pagina Web</title> 
+	 	  <meta charset="iso-8859-1">
+		     </head>
+		        <body>
+				  <!--etiqueta de parrafos-->
+				        <p>
+						     
+						     		 cualquier informacion por ejemplo
+								 		 
+										 	  </p>
+											  	  <p>
+												  	     otra informacion
+													     		
+																  </p>
+																  	   <p>
+																	   	     
+																		     		 cualquier informacion por ejemplo
+																				 		 
+																						 	  </p>
+																							  	  <p>
+																								  	     otra informacion
+																									     		
+																												  </p>
+																												  	   <p>
+																													   	     
+																														     		 cualquier informacion por ejemplo
+																																 		 
+																																		 	  </p>
+																																			  	  <p>
+																																				  	     otra informacion
+																																					     		
+																																								  </p>
+																																								  	   <!--hx 1-6 sirve para encabezados-->
+																																									   	   <h1>Encabezado principal</h1>
+																																										   	   <h6>Encabezado mas peque&ntilde;o</h6> <!-- secuencias de escape para caracteres especiales como la ñ-->
+																																											   	   
+																																												   	   <!-- ul listas desordenadas-->
+																																													   	   <ul>
+																																														   	      <li><a href="#marca1">Genesis</a></li>
+																																															      	      <li>Exodo</li>
+																																																      	      <li>Levitico</li>
+																																																	      	      <li>Numeros</li>
+																																																		      	   </ul>
+																																																			   	   <!-- ol listas ordenadas-->/
+																																																				   	   <ol>
+																																																					   	      <li>genesis</li>
+																																																						      	      <li>Exodo</li>
+																																																							      	      <li>Levitico</li>
+																																																								      	      <li>Numeros</li>
+																																																									      	   </ol>
+																																																										   	   <!-- lista de definicion-->/
+																																																											   	   <dl>
+																																																												   	      <dt>Genesis</dt>
+																																																													      		  <dd>Primer libro de la biblia  que significa origenes</dd>
+																																																															  		  <dt>Exodo</dt>
+																																																																	  		  <dd>Segundo libro de la biblia que muestra la salida del pueblo de israel</dd>
+																																																																			  	   </dl>
+																																																																				   	   <a href="http://www.google.com">Ir hacia Google</a><!-- para ir a una pagina fuera del sitio necesitamos poner http-->
+																																																																					   	   <a href="http://www.youtube.com">Ir hacia Youtube</a>
+																																																																						   	   <br>
+																																																																							   	    <a href="pagina2.html">Ir a segunda pagina</a>
+																																																																								    		<br>
+																																																																												<a href="otros/pagina3.html">Ir a segunda pagina</a>
+																																																																														<br>
+																																																																																<a name="marca1"></a>
+																																																																																		<a href="pagina2.html"><img src="img/pato.jpg"alt="es una imagen"></a>
+																																																																																				.
+																																																																																				   </body>
+
+																																																																																				   </html>
+
